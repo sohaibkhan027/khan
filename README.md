@@ -1,2 +1,2 @@
-# khan
+# KHAN
 HTML, CSS, BOOTSTRAP, JAVASCRIPT &amp; PHP 
